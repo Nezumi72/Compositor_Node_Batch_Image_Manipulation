@@ -7,15 +7,6 @@ Simple UI to demonstrate Blender's capability for batch image manipulation.
 1. [Installation](#installation)
 2. [Panel Layout](#panel-layout)
 3. [Basic Operation](#basic-operation)
-    * [Setting Scene Controls](#setting-scene-controls)
-    * [Defining File Name Structure](#defining-file-name-structure)
-    * [Testing Output](#testing-output)
-    * [Performing Render](#performing-render)
-4. [Intermediate Operation](#intermediate-operation)
-    * [Background Rendering](#background-rendering)
-5. [Advanced Operation](#advanced-operation)
-    * [Potential Gotcha's](#potential-gotchas)
-6. [Change Log](#change-log)
 
 # Installation:
 
